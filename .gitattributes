@@ -1,2 +1,2 @@
-/flaskblog/templates/*
-/flaskblog/static/*
+./flaskblog/templates/*
+./flaskblog/static/*
